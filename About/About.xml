@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-	<name>Rim-Effect Reborn: Extended Cut</name>
+	<name>Rim-Effect Renegade: Extended Cut</name>
 	<author>Vanilla Expanded Team and Co.</author>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
-	<packageId>RimEffectReborn.ExtendedCut</packageId>
+	<packageId>RimEffectRenegade.ExtendedCut</packageId>
 	<modIconPath IgnoreIfNoMatchingField="True">RimEffect/ModIcon</modIconPath>
 	<modDependencies>
         <li>
-			<packageId>RimEffectReborn.Core</packageId>
-			<displayName>Rim-Effect Reborn: Core</displayName>
+			<packageId>RimEffectRenegade.Core</packageId>
+			<displayName>Rim-Effect Renegade: Core</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2479560240</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>RimEffectReborn.Core</li>
+		<li>RimEffectRenegade.Core</li>
 	</loadAfter>
 	<description>Extended Cut is a unique module, as this mod contains everything we thought could be cool, but at the same time might be considered bloat for the main modules. This includes more doors, more weapons or new features like colour changing for prefab lamps. Unlike other modules, this one will grow in size over time. The amount of content you see here now, is not final.</description>
 
