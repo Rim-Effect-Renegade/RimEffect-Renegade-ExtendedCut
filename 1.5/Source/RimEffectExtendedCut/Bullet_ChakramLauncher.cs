@@ -46,7 +46,7 @@ namespace RimEffectExtendedCut
 			groundMat = MaterialPool.MatFrom(req);
 		}
 
-		public override void Draw()
+        public override void DrawAt(Vector3 drawLoc, bool flip = false)
 		{
 			float num = ArcHeightFactor * GenMath.InverseParabola(base.DistanceCoveredFraction);
 			Vector3 drawPos = DrawPos;
@@ -87,7 +87,7 @@ namespace RimEffectExtendedCut
 				List<Pawn> list = base.Position.GetThingList(base.Map).OfType<Pawn>().ToList();
 				for (int num = list.Count - 1; num >= 0; num--)
 				{
-					list[num].TryAttachFire(Rand.Range(0.3f, 0.6f));
+					list[num].TryAttachFire(Rand.Range(0.3f, 0.6f), this);
 				}
 			}
 		}

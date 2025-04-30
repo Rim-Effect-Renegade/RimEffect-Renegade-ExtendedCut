@@ -169,9 +169,9 @@ namespace RimEffectExtendedCut
 			}
 		}
 
-		public override void Draw()
-		{
-			base.Draw();
+        public override void DrawAt(Vector3 drawLoc, bool flip = false)
+        {
+            base.DrawAt(drawLoc, flip);
 			if (InUse)
 			{
 				Vector3 drawPos = DrawPos;
