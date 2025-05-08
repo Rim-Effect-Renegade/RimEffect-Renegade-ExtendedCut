@@ -36,6 +36,11 @@
 		<size>(3,1)</size>
 		<designationCategory>RE_ArchitectPrefab</designationCategory>
 		<modExtensions>
+			<li Class="RecipeInheritance.ThingDefExtension">
+				<inheritRecipesFrom>
+					<li>ElectricStove</li>
+				</inheritRecipesFrom>
+			</li>
 			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
 				<subCategory>RE_SubCatProduction</subCategory>
 				<showOnlyInCategory>true</showOnlyInCategory>
