@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|f:\\rwmodcategories\\neronix17\\rimeffectbiotech\\rimeffect-extendedcut-biotech\\1.6\\source\\rimeffectextendedcut\\rimeffectextendedcutmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|solutionrelative:rimeffectextendedcutmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|f:\\rwmodcategories\\neronix17\\rimeffectbiotech\\rimeffect-extendedcut-biotech\\1.6\\source\\rimeffectextendedcut\\jobdriver_playwarzonesecondplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|solutionrelative:jobdriver_playwarzonesecondplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|f:\\rwmodcategories\\neronix17\\rimeffectbiotech\\rimeffect-extendedcut-biotech\\1.6\\source\\rimeffectextendedcut\\jobdriver_playwarzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|solutionrelative:jobdriver_playwarzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|f:\\rwmodcategories\\neronix17\\rimeffectbiotech\\rimeffect-extendedcut-biotech\\1.6\\source\\rimeffectextendedcut\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3FA51F-A92A-411A-B27E-A8A40174BF49}|RimEffectExtendedCut.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RimEffectExtendedCutMod.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\RimEffectExtendedCutMod.cs",
+              "RelativeDocumentMoniker": "RimEffectExtendedCutMod.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\RimEffectExtendedCutMod.cs",
+              "RelativeToolTip": "RimEffectExtendedCutMod.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwCkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:53:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobDriver_PlayWarzoneSecondPlayer.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\JobDriver_PlayWarzoneSecondPlayer.cs",
+              "RelativeDocumentMoniker": "JobDriver_PlayWarzoneSecondPlayer.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\JobDriver_PlayWarzoneSecondPlayer.cs",
+              "RelativeToolTip": "JobDriver_PlayWarzoneSecondPlayer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:52:43.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobDriver_PlayWarzone.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\JobDriver_PlayWarzone.cs",
+              "RelativeDocumentMoniker": "JobDriver_PlayWarzone.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\JobDriver_PlayWarzone.cs",
+              "RelativeToolTip": "JobDriver_PlayWarzone.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA8wCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:52:09.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.6\\Source\\RimEffectExtendedCut\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:51:15.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<StuffedFloors.FloorTypeDef ParentName="StuffedFloorsStonePrettyBase">
+		<defName>RE_ColonialRecRoomTileStuffed</defName>
+		<label>colonial recreation tile</label>
+		<description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</description>
+        <texturePath>Terrain/Surfaces/ColonialRecRoomTile</texturePath>
+		<obsoletes>
+			<li>RE_ColonialRecRoomTileSandstone</li>
+			<li>RE_ColonialRecRoomTileGranite</li>
+			<li>RE_ColonialRecRoomTileLimestone</li>
+			<li>RE_ColonialRecRoomTileSlate</li>
+			<li>RE_ColonialRecRoomTileMarble</li>
+		</obsoletes>
+	</StuffedFloors.FloorTypeDef>
+	
+</Defs>

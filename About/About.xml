@@ -5,6 +5,7 @@
 	<author>Team Rim-Effect</author>
 	<supportedVersions>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<packageId>RimEffectRenegade.ExtendedCut</packageId>
 	<modIconPath IgnoreIfNoMatchingField="True">RimEffect/ModIcon</modIconPath>
