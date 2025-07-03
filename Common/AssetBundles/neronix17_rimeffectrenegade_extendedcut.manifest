@@ -1,0 +1,121 @@
+ManifestFileVersion: 0
+CRC: 1351294322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2148f7e395bd99a9ead81c6b49a7547c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2148f7e395bd99a9ead81c6b49a7547c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Things/Halberd/Shot_Halberd.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionA.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleStart_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleA_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/ArchonVisor/ArchonVisor_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionG.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Joy/HolovisionTable.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Props/PreFabCrateBig/PreFabCrateBig_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionF.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleWinA_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/Icons/SelectBattleset.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorHeavy_Mover.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Equipment/WeaponRanged/SpacerAssaultRifle.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabWallLight/UIPreFabWallLight.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Things/Incisor/Shot_Incisor.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabEndTableLampOrange/PrefabEndTableLampOrange_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Joy/WarzoneTable_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Projectile/Shot_ChakramDisc_Ground.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleA_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/ArchonVisor/ArchonVisor_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorColonial_Mover.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorHeavy_MenuIcon.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabWallLight/PreFabWallLight_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleD_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Drug/SerriceBrandy/SerriceBrandyA.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleWinB_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorWorkshop_MenuIcon.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Drug/TastyTankard/TastyTankardB.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorHeavy_Blueprint.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleB_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/Icons/LampColourSwitch.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorColonial_Blueprint.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabEndTableLampOrange/PrefabEndTableLampOrange_eastm.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Misc/BattleTable_Change/BattleTable_ChangeC.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabWallLight/PreFabWallLight_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionH.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Equipment/WeaponRanged/SpacerBattleRifle.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionC.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabEndTableLampOrange/PrefabEndTableLampOrange_northm.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/CapacitorHelmet/CapacitorHelmet_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleWinB_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabBedsideTableLampOrange/PrefabBedsideTableLampOrange_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/ArchonVisor/ArchonVisor_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabEndTableLampOrange/PrefabEndTableLampOrange_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Equipment/WeaponRanged/ChakramLauncher.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionE.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Things/Chakram/Shot_Chakram.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Meal/Colonial/ColonialB.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Meal/Colonial/ColonialA.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabBedsideTableLampOrange/PrefabBedsideTableLampOrange_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionD.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabStandingLampOrange/PrefabStandingLampOrange.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleD_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/CapacitorHelmet/CapacitorHelmet_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorColonial_MenuIcon.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Projectile/Shot_ChakramDisc.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Joy/PrefabHoloTable_OLD.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Terrain/Surfaces/ColonialRecRoomTile.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabBedsideTableLampOrange/PrefabBedsideTableLampOrange_southm.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabWallLightOrange/PreFabWallLightOrange_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Joy/WarzoneTable_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Things/Ballista/Ballista_Shot.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorWorkshop_Mover.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Misc/ThemisShuttle/CrashedThemisShuttle.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabWallLightOrange/PreFabWallLightOrange_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/ArchonVisor/ArchonVisor.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Production/PreFabStove_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabWallLightOrange/PreFabWallLightOrange_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleStart_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabOutdoorLampOrange/PreFabOutdoorLampOrange.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabEndTableLampOrange/PrefabEndTableLampOrange_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Equipment/WeaponRanged/ExpermientalAssaultRifle.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabBedsideTableLampOrange/PrefabBedsideTableLampOrange_eastm.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Door/PrefabDoorWorkshop_Blueprint.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabEndTableLampOrange/PrefabEndTableLampOrange_southm.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabOutdoorLamp/PreFabOutdoorLamp.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Equipment/WeaponRanged/SpacerMarksmanRifle.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Drug/SerriceBrandy/SerriceBrandyC.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabBedsideTableLampOrange/PrefabBedsideTableLampOrange_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleC_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleC_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PrefabBedsideTableLampOrange/PrefabBedsideTableLampOrange_northm.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Things/Halberd/Interact_Halberd.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Meal/Colonial/ColonialC.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/CapacitorHelmet/CapacitorHelmet_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Drug/SerriceBrandy/SerriceBrandyB.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Equipment/WeaponRanged/AlliancePrecisionRifle.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Things/Incisor/Interact_Incisor.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Props/PreFabCrateBig/PreFabCrateBig_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Furniture/PreFabWallLight/PreFabWallLight_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Misc/BattleTable_Change/BattleTable_ChangeA.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleB_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Misc/BattleTable_Change/BattleTable_ChangeB.ogg
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Sounds/Interact/Joy/WatchHolovision/WatchHolovisionB.wav
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/UI/BattleSets/FirstContactWar/BattleWinA_east.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Drug/TastyTankard/TastyTankardC.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Apparel/CapacitorHelmet/CapacitorHelmet.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Production/PreFabStove_north.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Building/Production/PreFabStove_south.png
+- Assets/Data/Neronix17.RimEffectRenegade.ExtendedCut/Textures/Things/Item/Drug/TastyTankard/TastyTankardA.png
+Dependencies: []
