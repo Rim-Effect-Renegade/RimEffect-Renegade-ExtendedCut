@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
 	<!--============================== Wall Lights ==============================-->
@@ -24,7 +24,7 @@
 		</statBases>
 		<size>(1, 1)</size>
 		<placeWorkers>
-			<li>VanillaFurnitureExpanded.PlaceWorker_OnWall</li>
+			<li>VEF.Buildings.PlaceWorker_OnWall</li>
 		</placeWorkers>
 		<costList>
 			<RE_PrefabComponent>1</RE_PrefabComponent>
@@ -63,8 +63,8 @@
 				<basePowerConsumption>15</basePowerConsumption>
 			</li>
 			<li Class="CompProperties_Flickable" />
-      			<li Class="VanillaFurnitureExpanded.CompProperties_MountableOnWall"/>
-			<li Class="VanillaFurnitureExpanded.CompProperties_GlowerExtended">
+			<li Class="VEF.Buildings.CompProperties_MountableOnWall" />
+			<li Class="VEF.Buildings.CompProperties_GlowerExtended">
 				<spawnGlowerInFacedCell>true</spawnGlowerInFacedCell>
 				<colorOptions>
 					<li>
@@ -83,7 +83,7 @@
 			</li>
 		</comps>
 	</ThingDef>
-	
+
 	<!--============================== Outdoor Lamps ==============================-->
 	<ThingDef Abstract="True" Name="RE_PrefabOutdoorLampBase" ParentName="BuildingBase">
 		<thingClass>Building</thingClass>
@@ -119,7 +119,7 @@
 			</damageData>
 		</graphicData>
 		<comps>
-			<li Class="CompProperties_Flickable"/>
+			<li Class="CompProperties_Flickable" />
 		</comps>
 		<statBases>
 			<MaxHitPoints>50</MaxHitPoints>
@@ -132,7 +132,7 @@
 		<techLevel>Ultra</techLevel>
 	</ThingDef>
 
-	<ThingDef ParentName="RE_PrefabOutdoorLampBase" >
+	<ThingDef ParentName="RE_PrefabOutdoorLampBase">
 		<defName>RE_PrefabOutdoorLamp</defName>
 		<label>prefab outdoor lamp</label>
 		<description>A self-powered electrical standing lamp for outdoor use designed to be quickly and easily assembled in the process of setting up a new colony.</description>
@@ -161,7 +161,7 @@
 			<li>Batteries</li>
 		</researchPrerequisites>
 		<comps>
-			<li Class="VanillaFurnitureExpanded.CompProperties_GlowerExtended">
+			<li Class="VEF.Buildings.CompProperties_GlowerExtended">
 				<colorOptions>
 					<li>
 						<glowRadius>6</glowRadius>

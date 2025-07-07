@@ -6,7 +6,7 @@
 		<defName>RE_PrefabDoorColonial</defName>
 		<label>prefab colonial autodoor</label>
 		<description>Divides rooms. Powered operation allows people to move through the door without slowing down.</description>
-		<thingClass>VFECore.Building_AutoDoorLockable</thingClass>
+		<thingClass>VEF.Buildings.Building_AutoDoorLockable</thingClass>
 		<graphicData>
 			<texPath>Things/Building/Door/PrefabDoorColonial_Mover</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -45,7 +45,7 @@
 		<defName>RE_PrefabAutoDoorIndustrial</defName>
 		<label>prefab industrial autodoor</label>
 		<description>A heavy steel door that divides rooms. Powered operation allows people to move through the door without slowing down.</description>
-		<thingClass>VFECore.Building_AutoDoorLockable</thingClass>
+		<thingClass>VEF.Buildings.Building_AutoDoorLockable</thingClass>
 		<graphicData>
 			<texPath>Things/Building/Door/PrefabDoorWorkshop_Mover</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
-using VanillaFurnitureExpanded;
+using VEF.Buildings;
 using Verse;
 
 namespace RimEffectExtendedCut

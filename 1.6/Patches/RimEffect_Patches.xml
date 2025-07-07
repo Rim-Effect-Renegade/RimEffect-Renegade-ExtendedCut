@@ -23,7 +23,7 @@
 			<li Class="PatchOperationAdd">
 				<xpath>/Defs/ThingDef[defName = "RE_PrefabEndTableWithLamp"]/comps</xpath>
 				<value>
-					<li Class="VanillaFurnitureExpanded.CompProperties_GlowerExtended">
+					<li Class="VEF.Buildings.CompProperties_GlowerExtended">
 						<colorOptions>
 							<li>
 								<glowRadius>10</glowRadius>
@@ -61,7 +61,7 @@
 			<li Class="PatchOperationAdd">
 				<xpath>/Defs/ThingDef[defName = "RE_PrefabBedsideTableLamp"]/comps</xpath>
 				<value>
-					<li Class="VanillaFurnitureExpanded.CompProperties_GlowerExtended">
+					<li Class="VEF.Buildings.CompProperties_GlowerExtended">
 						<colorOptions>
 							<li>
 								<glowRadius>10</glowRadius>
@@ -99,7 +99,7 @@
 			<li Class="PatchOperationAdd">
 				<xpath>/Defs/ThingDef[defName = "RE_PrefabStandingLamp"]/comps</xpath>
 				<value>
-					<li Class="VanillaFurnitureExpanded.CompProperties_GlowerExtended">
+					<li Class="VEF.Buildings.CompProperties_GlowerExtended">
 						<colorOptions>
 							<li>
 								<glowRadius>16</glowRadius>

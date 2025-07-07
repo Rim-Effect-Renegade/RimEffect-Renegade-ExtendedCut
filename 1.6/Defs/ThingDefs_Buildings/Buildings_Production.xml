@@ -36,7 +36,7 @@
 		<size>(3,1)</size>
 		<designationCategory>RE_ArchitectPrefab</designationCategory>
 		<modExtensions>
-			<li Class="RecipeInheritance.ThingDefExtension">
+			<li Class="VEF.Buildings.RecipeInheritanceExtension">
 				<inheritRecipesFrom>
 					<li>ElectricStove</li>
 				</inheritRecipesFrom>
