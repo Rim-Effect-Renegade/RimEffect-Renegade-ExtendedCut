@@ -31,7 +31,7 @@ namespace RimEffectExtendedCut
             Version version = Assembly.GetExecutingAssembly().GetName().Version;
             CurrentVersion = $"{version.Major}.{version.Minor}.{version.Build}";
 
-            Log.Message($":: Rim-Effect Renegade: Extended Cut :: {CurrentVersion} ::");
+            Log.Message($":: Rim-Effect Renegade: Extended Cut :: ".Colorize(Color.cyan) + $"{CurrentVersion} ::");
 
             File.WriteAllText(VersionDir, CurrentVersion);
 
