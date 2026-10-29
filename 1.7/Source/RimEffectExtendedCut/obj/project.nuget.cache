@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rE3jWVhjYSM=",
+  "success": true,
+  "projectFilePath": "G:\\RWModCategories\\Neronix17\\RimEffectBiotech\\RimEffect-ExtendedCut-Biotech\\1.7\\Source\\RimEffectExtendedCut\\RimEffectExtendedCut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcoop\\.nuget\\packages\\lib.harmony\\3.0.0-rc.3\\lib.harmony.3.0.0-rc.3.nupkg.sha512"
+  ],
+  "logs": []
+}
